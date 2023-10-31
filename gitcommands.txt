@@ -1,0 +1,19 @@
+echo "# redux-intro" >> README.md
+git init
+git add --all
+git commit -m "Chapter 20. Redux and Modern Redux Toolkit (With Thunks) >> Lecture: 3. Creating a Reducer Bank Account"
+git branch -M main
+git remote add origin https://github.com/Muhammad-Sabbir/redux-intro.git
+git push -u origin main
+
+
+
+git remote add origin https://github.com/Muhammad-Sabbir/redux-intro.git
+git branch -M main
+git push -u origin main
+
+
+git add --all
+git commit -m "Chapter 20. Redux and Modern Redux Toolkit (With Thunks) >> Lecture: 3. Creating a Reducer Bank Account"
+
+git push -u origin main
