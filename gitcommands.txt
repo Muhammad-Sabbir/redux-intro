@@ -14,6 +14,6 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 20. Redux and Modern Redux Toolkit (With Thunks) >> Lecture: 6. Adding More State: Customer"
+git commit -m "Chapter 20. Redux and Modern Redux Toolkit (With Thunks) >> Lecture: 8. Back to React! Connecting our Redux App With React"
 
 git push -u origin main
