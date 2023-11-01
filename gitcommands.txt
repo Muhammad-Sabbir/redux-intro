@@ -14,6 +14,6 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 20. Redux and Modern Redux Toolkit (With Thunks) >> Lecture: 4. Creating a Redux Store"
+git commit -m "Chapter 20. Redux and Modern Redux Toolkit (With Thunks) >> Lecture: 5. Working With Action Creators"
 
 git push -u origin main
