@@ -14,6 +14,6 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 20. Redux and Modern Redux Toolkit (With Thunks) >> Lecture: 10. The Legacy Way of Connect Components to Redux"
+git commit -m "Chapter 20. Redux and Modern Redux Toolkit (With Thunks) >> Lecture: 12. Making an API Call With Redux Thunks"
 
 git push -u origin main
