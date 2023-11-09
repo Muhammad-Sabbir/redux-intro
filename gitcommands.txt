@@ -14,6 +14,6 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 20. Redux and Modern Redux Toolkit (With Thunks) >> Lecture: 16. Creating the Account Slice"
+git commit -m "Chapter 20. Redux and Modern Redux Toolkit (With Thunks) >> Lecture: 18. Creating the Customer Slice"
 
 git push -u origin main
